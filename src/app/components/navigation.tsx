@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import { Menu, X, Sparkles } from "lucide-react";
+import { name } from "../../data/data";
 //@ts-ignore
 import logo from '../../assets/logo.png';
-import { name } from "../../data/data";
 
 export function Navigation() {
   const [isScrolled, setIsScrolled] = useState<boolean>(false);
