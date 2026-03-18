@@ -1,6 +1,6 @@
 import { Heart, MapPin, Phone, Mail, Clock } from "lucide-react";
 import { FaWhatsapp , FaFacebook } from "react-icons/fa";
-import { name } from "../../data/data";
+import { name } from "../../Data/data";
 
 export function Footer() {
   const currentYear = new Date().getFullYear();

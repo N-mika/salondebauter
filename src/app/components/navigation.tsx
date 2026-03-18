@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Menu, X, Sparkles } from "lucide-react";
-import { name } from "../../data/data";
+import { name } from "../../Data/data";
 //@ts-ignore
 import logo from '../../assets/logo.png';
 
