@@ -1,8 +1,9 @@
 import { Sparkles } from "lucide-react";
 //@ts-ignore
 import Logo from '../../assets/logo.png'
+//@ts-ignore
 import img12 from '../../assets/Image/img12.jpg'
-import { name } from "../../data/data";
+import { name } from "../../Data/data";
 
 export function HeroSection() {
   return (
